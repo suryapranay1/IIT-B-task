@@ -1,6 +1,6 @@
 The Chemical Inventory application is a web-based tool for managing and maintaining a list of chemical supplies. Users can perform various operations such as adding, editing, deleting, and sorting chemical entries, making it a useful resource for inventory management in laboratories and industries.
 
-Features
+#Features#
 Responsive Design: The application utilizes Bootstrap for a responsive layout that works well on different devices.
 CRUD Operations: Users can create (add), read (view), update (edit), and delete chemical entries.
 Sorting: Users can sort the table based on different chemical attributes by clicking on the column headers.
